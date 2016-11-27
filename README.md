@@ -1,2 +1,2 @@
 # .emacs.d_git
-just to backup my .emacs.d files for windows
+This repo will use to store the files related to the course of data analysis on udacity!
